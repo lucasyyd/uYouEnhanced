@@ -141,7 +141,12 @@
 @end
 @interface YTWatchViewController (uYouEnhanced)
 @property(nonatomic, strong) YTWatchPullToFullController *pullToFullController;
-- (NSUInteger)allowedFullScreenOrientations;
+- (NSUInteger) allowedFullScreenOrientations;
+// Fullscreen to the Right (uYouEnhanced Version) - @arichornlover
+- (BOOL) fullscreen;
+- (UIInterfaceOrientationMask) supportedInterfaceOrientations;
+- (UIInterfaceOrientation) preferredInterfaceOrientationForPresentation;
+- (void)forceRightFullscreenOrientation;
 @end
 
 // uYouPlus
