@@ -40,8 +40,6 @@
 [![Wiki](https://img.shields.io/badge/Wiki-blue?style=flat)](#wiki)<br>
 
 # Credits
-- Special thanks to all the developers who have worked on uYouPlus/uYouEnhanced! 
-
 <table id='credit'>
 <tr>
 
@@ -204,13 +202,13 @@
 <a href='https://github.com/balackburn'>balackburn</a>
 </td>
 
-<theos>
+<dodieboy>
 <td align="center">
-<a href='https://github.com/theos/theos'>
-<img src='https://user-images.githubusercontent.com/78001398/271813393-56a63730-a56d-41ba-b473-4d37761526c9.png' width='110px'>
+<a href='https://github.com/dodieboy'>
+<img src='https://github.com/arichornlover/YouTubeRebornPlus/assets/78001398/0d43912b-e561-4865-8312-5e241d34bf72' width='110px;'>
 </a>
 <br>
-<a href='https://theos.dev'>theos</a>
+<a href='https://github.com/dodieboy'>dodieboy</a>
 </td>
 </tr>
 
@@ -223,6 +221,15 @@
 </a>
 <br>
 <a href='https://github.com/bhackel'>bhackel</a>
+</td>
+
+<theos>
+<td align="center">
+<a href='https://github.com/theos/theos'>
+<img src='https://user-images.githubusercontent.com/78001398/271813393-56a63730-a56d-41ba-b473-4d37761526c9.png' width='110px'>
+</a>
+<br>
+<a href='https://theos.dev'>theos</a>
 </td>
 </tr>
 </table>
@@ -337,14 +344,29 @@ or [qnblackcat/Building - Wiki](https://github.com/qnblackcat/uYouPlus/wiki/Buil
 See [Installation - Wiki](https://github.com/qnblackcat/uYouPlus/wiki/Installation).
 
 # Support the developers
-- [**MiRO92**](https://twitter.com/miro92): https://github.com/MiRO92/uYou-for-YouTube#support
-- [**PoomSmart**](https://github.com/PoomSmart): https://poomsmart.github.io
-- [**level3tjg**](https://twitter.com/level3tjg): https://ko-fi.com/level3tjg
-- [**BandarHL**](https://twitter.com/bandarhl): https://www.paypal.com/paypalme/BandarHL
-- [**julioverne**](https://twitter.com/ijulioverne): https://www.patreon.com/julioverne
-- [**Galactic-dev**](https://twitter.com/dev_galactic):   
-  - Paypal: https://www.paypal.com/paypalme/DBrett684 
-  - Venmo: https://venmo.com/u/DavidBrett
+<a href="https://buymeacoffee.com/dayanch96"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Donations/Dayanch96(buymeacoffee).png" width="200"></a>
+&nbsp;
+<a href="https://github.com/sponsors/dayanch96"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Donations/Dayanch96(Github).png" width="200"></a>
+
+<a href="https://ko-fi.com/dayanch966"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Donations/Dayanch96(ko-fi).png" width="200"></a>
+&nbsp;
+<a href="https://www.paypal.com/paypalme/poomsmart"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Donations/Poomsmart.png" width="200"></a>
+
+<a href="https://www.paypal.com/paypalme/DBrett684"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Donations/Galactic-dev(Paypal).png" width="200"></a>
+&nbsp;
+<a href="https://venmo.com/u/DavidBrett"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Donations/Galactic-dev(Venmo).png?raw=true" width="200"></a>
+
+
+<a href="https://github.com/MiRO92/uYou-for-YouTube#support"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Buttons/Donations/MIRO92.png" width="200"></a>
+&nbsp;
+
+<a href="https://www.paypal.com/paypalme/BandarHL"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Donations/BandarHL.png" width="200"></a>
+&nbsp;
+
+<a href="https://ko-fi.com/level3tjg"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Donations/level3tjg.png?raw=true" width="200"></a>
+&nbsp;
+
+<a href="https://www.patreon.com/julioverne"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Donations/julioverne.png?raw=true" width="200"></a>
 
 # Wiki
 
@@ -371,9 +393,9 @@ https://github.com/Balackburn/YTLitePlus/releases
 
 - YTLitePlus does not cause your device to overheat, unlike uYouEnhanced.
 
-**Cons**
+- YTLitePlus provides faster video & audio downloading than uYouPlus/uYouEnhanced.
 
-- No custom video downloading feature in YTLitePlus.
+**Cons**
 
 - Video quality on WiFi option is not available in YTLitePlus.
 
