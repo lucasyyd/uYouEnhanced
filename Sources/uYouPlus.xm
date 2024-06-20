@@ -1786,6 +1786,7 @@ static BOOL findCell(ASNodeController *nodeController, NSArray <NSString *> *ide
         [[NSUserDefaults standardUserDefaults] setBool:NO forKey:@"removeYouTubeAds"];
     }
     if (![allKeys containsObject:@"uYouAdBlockingWorkaround_enabled"]) { 
+        [[NSUserDefaults standardUserDefaults] setBool:NO forKey:@"uYouAdBlockingWorkaroundLite_enabled"];
         [[NSUserDefaults standardUserDefaults] setBool:YES forKey:@"uYouAdBlockingWorkaround_enabled"];
         [[NSUserDefaults standardUserDefaults] setBool:NO forKey:@"removeYouTubeAds"];
     }
